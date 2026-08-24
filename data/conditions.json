@@ -1,7 +1,8 @@
 [
-  {"slug":"i-was-here","title":"I WAS HERE","definition":"An ordinary human truth: this person was present."},
-  {"slug":"nothing-happened-here","title":"NOTHING HAPPENED HERE","definition":"And yet — this was real presence."},
-  {"slug":"between-places","title":"BETWEEN PLACES","definition":"In-between becomes destination."},
-  {"slug":"the-things-i-didnt-go-looking-for","title":"THE THINGS I DIDN'T GO LOOKING FOR","definition":"Unfound, but witnessed."},
-  {"slug":"things-that-existed-for-me","title":"THINGS THAT EXISTED FOR ME","definition":"What mattered was present somewhere."}
+  {"slug":"something-happened-here","internal_condition":"TRACE","title":"SOMETHING HAPPENED HERE","definition":"The world, altered by presence.","paragraph":"These photographs record visible consequences of encounter: something prepared, consumed, touched, arranged or otherwise changed because a living presence acted upon it."},
+  {"slug":"while-we-were-here","internal_condition":"CO-PRESENCE","title":"WHILE WE WERE HERE","definition":"Lives briefly occupying the same moment.","paragraph":"Gatherings, journeys and shared activities place independent lives within the same field of observation, whether or not those lives ever directly meet."},
+  {"slug":"things-that-existed-for-me","internal_condition":"ATTENTION","title":"THINGS THAT EXISTED FOR ME","definition":"Something the world presented and I happened to notice.","paragraph":"Places, structures and ordinary details become part of the archive because, among everything present, they were the things that held the photographer's attention."},
+  {"slug":"the-things-i-didnt-go-looking-for","internal_condition":"ATTENTION_CURATED","title":"THE THINGS I DIDN'T GO LOOKING FOR","definition":"Unfound, but witnessed.","paragraph":"Animals, objects, flowers and visual interruptions entered the photograph unexpectedly, turning an unplanned encounter into a lasting record."},
+  {"slug":"nothing-happened-here","internal_condition":"ABSENCE_CURATED","title":"NOTHING HAPPENED HERE","definition":"And yet — this was real presence.","paragraph":"No person, shadow or human figure occupies these frames; the quiet environment remains, witnessed by the presence required to make the photograph."},
+  {"slug":"between-places","internal_condition":"CROSSING_CURATED","title":"BETWEEN PLACES","definition":"In-between becomes destination.","paragraph":"Routes, stairs, passageways, stations and views from transit give attention to spaces usually experienced only while moving toward somewhere else."}
 ]

@@ -1,0 +1,35 @@
+from pathlib import Path
+import json
+
+ROOT=Path(__file__).resolve().parents[1]
+inventory=json.loads((ROOT/'data/photo-inventory.json').read_text())
+classified=json.loads((ROOT/'reports/library-classification.json').read_text())['records']
+editorial_assignments=json.loads((ROOT/'data/condition-assignments.json').read_text())
+by_file={r['original_filename']:r for r in classified}
+assigned={archive_id:slug for slug,archive_ids in editorial_assignments.items() for archive_id in archive_ids}
+
+def public_condition(record,archive_id):
+    # Public editorial language is separate from the stored Primary Condition.
+    # Do not use subject, tags or Secondary Conditions for this mapping.
+    if archive_id in assigned:return assigned[archive_id]
+    # Every remaining Condition-pool image was visually reviewed as an object,
+    # place, façade, animal, found encounter or other act of attention.
+    return 'things-that-existed-for-me'
+
+gallery=[];metadata=[]
+for item in inventory:
+    c=by_file[item['source_file']];classification=c['classification']
+    promoted=item['archive_id'] in assigned
+    content_pool='CONDITION' if classification in {'FEATURE','SUPPORTING'} or promoted else ('ARCHIVE' if classification=='ARCHIVE' else 'RETAINED_ONLY')
+    condition=public_condition(c,item['archive_id']) if content_pool=='CONDITION' else None
+    gallery.append({'archive_id':item['archive_id'],'classification':classification,'content_pool':content_pool,
+      'condition':condition,'display_condition':condition,'condition_promotion':promoted and classification=='ARCHIVE',
+      'primary_condition':c['primary_condition'],'secondary_conditions':c['secondary_conditions'],
+      'subject':c['subject'],'subject_subtype':c['subject_subtype'],'sequence_id':c['sequence_id'],
+      'featured':classification=='FEATURE','tags':c['tags'],'possible_series':c['possible_series']})
+    metadata.append({'archive_id':item['archive_id'],'public_date':item.get('public_date')})
+
+(ROOT/'data/public-archive.json').write_text(json.dumps(gallery,indent=2)+'\n')
+(ROOT/'data/public-metadata.json').write_text(json.dumps(metadata,indent=2)+'\n')
+counts={k:sum(x['classification']==k for x in gallery) for k in ['FEATURE','SUPPORTING','ARCHIVE','REVIEW','REJECT']}
+print(json.dumps({'records':len(gallery),**counts},indent=2))

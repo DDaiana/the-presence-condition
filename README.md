@@ -20,11 +20,12 @@ Original photographs remain outside this repository. Point the scanner at the au
 
 ```sh
 TPC_PHOTO_SOURCE="/absolute/path/to/photography-portfolio" pnpm archive:scan
+pnpm archive:classify
 pnpm archive:build
 pnpm archive:validate
 ```
 
-The scan generates `data/photo-inventory.json` and the persistent hash-to-ID registry. It never moves, renames or modifies originals. Generated derivatives are resized JPEGs; GPS is not made public. Curation is manual-first: edits in `data/curation.json` override future automated suggestions.
+The scan generates `data/photo-inventory.json` and the persistent hash-to-ID registry. It never moves, renames or modifies originals. Generated derivatives are resized JPEGs; GPS is not made public. Classification is preservation-first: decodable photographs default to retained review, `REJECT` is a reversible recommendation, and edits in `data/curation.json` override automated suggestions. Public galleries curate separately from `FEATURE` and `SUPPORTING`.
 
 ## Publication model
 

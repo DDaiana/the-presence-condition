@@ -43,6 +43,7 @@ next-env.d.ts
 /submissions/
 /moderation-private/
 /tmp-classification/
+/reports/
 /data/photo-inventory.json
 /data/archive-registry.json
 /.openai/hosting.json
@@ -50,6 +51,8 @@ next-env.d.ts
 /public/og.png
 /public/archive/* 2.jpg
 *.raw
+__pycache__/
+*.pyc
 *.dng
 *.cr2
 *.cr3

@@ -11,8 +11,10 @@
     "start": "vinext start",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "archive:scan": "node scripts/scan-photos.mjs",
+    "archive:classify": "python3 scripts/reclassify_photos.py",
     "archive:build": "node scripts/build-derivatives.mjs",
-    "archive:validate": "node scripts/validate-archive.mjs"
+    "archive:validate": "node scripts/validate-archive.mjs",
+    "test:curation": "python3 -m unittest discover -s tests -p 'test_*.py'"
   },
   "dependencies": {
     "next": "16.2.6",
