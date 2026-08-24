@@ -1,0 +1,12 @@
+import { createHash } from "node:crypto";
+import { readdir, readFile, writeFile } from "node:fs/promises";
+import { basename, extname, join } from "node:path";
+import { execFileSync } from "node:child_process";
+
+const root = process.env.TPC_PHOTO_SOURCE;
+if (!root) throw new Error("Set TPC_PHOTO_SOURCE to the authoritative photography-portfolio directory.");
+const supported = new Set([".jpg", ".jpeg", ".png", ".heic", ".webp", ".tif", ".tiff"]);
+async function walk(dir) { const out=[]; for(const entry of await readdir(dir,{withFileTypes:true})){const p=join(dir,entry.name); if(entry.isDirectory()) out.push(...await walk(p)); else if(supported.has(extname(entry.name).toLowerCase())) out.push(p)} return out; }
+const files=(await walk(root)).sort(); const hashes=new Map(); const records=[];
+for(let i=0;i<files.length;i++){const path=files[i]; const bytes=await readFile(path); const hash=createHash("sha256").update(bytes).digest("hex"); const info=execFileSync("sips",["-g","pixelWidth","-g","pixelHeight","-g","orientation",path],{encoding:"utf8"}); const read=(key)=>info.match(new RegExp(`${key}: (.+)`))?.[1]??null; const duplicateOf=hashes.get(hash)??null; if(!duplicateOf) hashes.set(hash,`TPC-${String(i+1).padStart(5,"0")}`); const filename=basename(path); const stamp=filename.match(/^(\d{4})(\d{2})(\d{2})[_-]?(\d{2})?(\d{2})?(\d{2})?/); const capture=stamp?`${stamp[1]}-${stamp[2]}-${stamp[3]}${stamp[4]?`T${stamp[4]}:${stamp[5]??"00"}:${stamp[6]??"00"}`:""}`:null; records.push({source_file:filename,source_path:path,filename,extension:extname(path).toLowerCase(),original_date:capture,capture_datetime:capture,width:Number(read("pixelWidth"))||null,height:Number(read("pixelHeight"))||null,orientation:Number(read("orientation"))||null,GPS:null,city:null,neighbourhood:null,country:null,camera:null,duplicate_hash:hash,derivative_status:"pending",archive_status:"candidate",condition_candidates:[],selected_condition:null,confidence:"LOW",manual_review_required:true,public_title:null,archive_id:`TPC-${String(i+1).padStart(5,"0")}`,public_location:null,public_date:capture?.slice(0,10)??null,notes:null,exact_duplicate_of:duplicateOf});}
+await writeFile("data/photo-inventory.json",JSON.stringify(records,null,2)+"\n"); await writeFile("data/archive-registry.json",JSON.stringify(Object.fromEntries(records.map(r=>[r.duplicate_hash,r.archive_id])),null,2)+"\n"); console.log(`Inventoried ${records.length} photographs; ${records.filter(r=>r.exact_duplicate_of).length} exact duplicates.`);

@@ -1,0 +1,58 @@
+/* Final optical integration without changing the website_V3 structure. */
+.hero > img {
+  width: calc(100% + 36px);
+  margin-left: -36px;
+  -webkit-mask-image: linear-gradient(to right, transparent 0, #000 38px, #000 100%);
+  mask-image: linear-gradient(to right, transparent 0, #000 38px, #000 100%);
+}
+
+.photo-strip a,
+.archive-grid a {
+  overflow: hidden;
+  background: #111;
+}
+
+.photo-strip img,
+.archive-grid img {
+  transition: opacity 180ms ease;
+}
+
+.photo-strip img {
+  height: auto;
+  aspect-ratio: 4 / 3;
+}
+
+.archive-grid img {
+  height: auto;
+  aspect-ratio: 1 / 1;
+}
+
+.condition-list img {
+  height: auto;
+  aspect-ratio: 4 / 3;
+}
+
+.intro-grid > img {
+  height: auto;
+  aspect-ratio: 5 / 3;
+}
+
+.condition-intro {
+  max-width: 540px;
+  margin: 0 0 24px;
+  line-height: 1.45;
+}
+
+.photo-strip a:hover img,
+.archive-grid a:hover img {
+  opacity: 0.86;
+}
+
+@media (max-width: 850px) {
+  .hero > img {
+    width: 100%;
+    margin-left: 0;
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0, #000 30px, #000 100%);
+    mask-image: linear-gradient(to bottom, transparent 0, #000 30px, #000 100%);
+  }
+}

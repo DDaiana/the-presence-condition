@@ -1,0 +1,3 @@
+# Initial archive curation
+
+All 236 discovered photographs were inventoried as archive candidates with stable IDs. A visual editorial review selected 34 for public presentation, favouring quiet evidence, transitional spaces, incidental light, lived architecture and human traces consistent with the TPC reference direction. The sequence is deliberately composed and is not filename, date or folder order. Two selected photographs remain in the general Presence Archive without a Condition. Condition assignments are conservative editorial placements and remain overrideable through the manual curation layer. See `data/photo-inventory.json` for the complete ID-to-source mapping and `data/public-archive.json` for the public sequence.
