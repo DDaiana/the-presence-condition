@@ -12,6 +12,6 @@ export default async function Condition({params}:{params:Promise<{slug:string}>}
   const c=conditions.find(x=>x.slug===slug);
   if(!c)notFound();
   const dates=new Map(metadata.map(p=>[p.archive_id,p.public_date]));
-  const entries=archive.filter(p=>p.content_pool==="CONDITION"&&p.condition===slug).map(p=>({archive_id:p.archive_id,public_date:dates.get(p.archive_id)??null}));
+  const entries=archive.filter(p=>p.content_pool==="CONDITION"&&p.condition===slug&&(p.curation_status==="CURATED"||p.curation_status==="SEQUENCE_MEMBER")).map(p=>({archive_id:p.archive_id,public_date:dates.get(p.archive_id)??null}));
   return <Shell><h1>{c.title}</h1><p>{c.definition}</p><p className="condition-intro">{c.paragraph}</p>{entries.length?<ConditionGrid entries={entries}/>:<div className="empty">No photographs have been assigned to this Condition.</div>}</Shell>;
 }

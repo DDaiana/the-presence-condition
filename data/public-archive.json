@@ -25,7 +25,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.1,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00002",
@@ -53,7 +57,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.8,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00003",
@@ -81,7 +89,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "SEQUENCE_MEMBER",
+    "overall_curatorial_score": 8.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00004",
@@ -111,7 +123,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "SEQUENCE_MEMBER",
+    "overall_curatorial_score": 8.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00005",
@@ -144,7 +160,11 @@
       "Everyday Observations",
       "Fragments and Details",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.4,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00006",
@@ -177,7 +197,11 @@
       "Everyday Observations",
       "Fragments and Details",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00007",
@@ -210,7 +234,11 @@
       "Everyday Observations",
       "Fragments and Details",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00008",
@@ -238,7 +266,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00009",
@@ -268,7 +300,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00010",
@@ -301,15 +337,19 @@
       "Everyday Observations",
       "Fragments and Details",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00011",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "while-we-were-here",
+    "display_condition": "while-we-were-here",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -332,7 +372,11 @@
       "Everyday Observations",
       "Fragments and Details",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.1,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00012",
@@ -360,7 +404,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00013",
@@ -390,7 +438,11 @@
       "Everyday Observations",
       "Green / Urban Nature",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00014",
@@ -418,7 +470,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00015",
@@ -451,7 +507,11 @@
       "Everyday Observations",
       "Green / Urban Nature",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00016",
@@ -479,7 +539,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00017",
@@ -506,7 +570,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00018",
@@ -534,7 +602,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00019",
@@ -564,7 +636,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00020",
@@ -591,7 +667,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00021",
@@ -619,7 +699,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.4,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00022",
@@ -653,7 +737,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.5,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00023",
@@ -684,7 +772,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.6,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00024",
@@ -711,7 +803,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00025",
@@ -741,7 +837,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.8,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00026",
@@ -769,7 +869,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00027",
@@ -797,7 +901,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00028",
@@ -825,15 +933,19 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00029",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "the-things-i-didnt-go-looking-for",
+    "display_condition": "the-things-i-didnt-go-looking-for",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -855,15 +967,19 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00030",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "things-that-existed-for-me",
+    "display_condition": "things-that-existed-for-me",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -883,7 +999,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00031",
@@ -910,7 +1030,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00032",
@@ -937,7 +1061,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00033",
@@ -962,7 +1090,11 @@
     "possible_series": [
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00034",
@@ -989,7 +1121,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.5,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00035",
@@ -1019,7 +1155,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00036",
@@ -1047,7 +1187,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00037",
@@ -1074,7 +1218,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00038",
@@ -1102,7 +1250,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00039",
@@ -1127,7 +1279,11 @@
     "possible_series": [
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00040",
@@ -1155,7 +1311,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.6,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00041",
@@ -1188,7 +1348,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.5,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00042",
@@ -1219,7 +1383,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00043",
@@ -1249,7 +1417,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00044",
@@ -1274,7 +1446,11 @@
     "possible_series": [
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00045",
@@ -1299,7 +1475,11 @@
     "possible_series": [
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00046",
@@ -1327,7 +1507,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": true
   },
   {
     "archive_id": "TPC-00047",
@@ -1355,7 +1539,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00048",
@@ -1383,15 +1571,19 @@
       "Built Geometry",
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00237",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "something-happened-here",
+    "display_condition": "something-happened-here",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -1408,7 +1600,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.1,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00049",
@@ -1433,15 +1629,19 @@
     "possible_series": [
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.4,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00050",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "the-things-i-didnt-go-looking-for",
+    "display_condition": "the-things-i-didnt-go-looking-for",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -1458,7 +1658,11 @@
     "possible_series": [
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.0,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00051",
@@ -1486,7 +1690,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00052",
@@ -1511,7 +1719,11 @@
     "possible_series": [
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00053",
@@ -1538,7 +1750,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00054",
@@ -1567,7 +1783,11 @@
       "After Dark",
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.7,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00238",
@@ -1594,7 +1814,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00055",
@@ -1618,7 +1842,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00056",
@@ -1642,7 +1870,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.0,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00239",
@@ -1667,7 +1899,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.6,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00057",
@@ -1692,7 +1928,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00240",
@@ -1714,7 +1954,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00058",
@@ -1738,7 +1982,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00059",
@@ -1760,7 +2008,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.0,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00060",
@@ -1787,15 +2039,19 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.6,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00241",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "things-that-existed-for-me",
+    "display_condition": "things-that-existed-for-me",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -1809,7 +2065,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.0,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00061",
@@ -1834,7 +2094,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00062",
@@ -1861,15 +2125,19 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00242",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "something-happened-here",
+    "display_condition": "something-happened-here",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -1883,7 +2151,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00063",
@@ -1910,7 +2182,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00064",
@@ -1940,7 +2216,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00243",
@@ -1970,7 +2250,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00244",
@@ -1995,7 +2279,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00065",
@@ -2020,7 +2308,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00245",
@@ -2050,7 +2342,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00066",
@@ -2075,7 +2371,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00067",
@@ -2099,7 +2399,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": true
   },
   {
     "archive_id": "TPC-00068",
@@ -2129,7 +2433,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.1,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00069",
@@ -2156,7 +2464,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00070",
@@ -2181,7 +2493,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00071",
@@ -2206,7 +2522,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00072",
@@ -2231,7 +2551,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00073",
@@ -2253,7 +2577,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00246",
@@ -2278,7 +2606,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00074",
@@ -2303,7 +2635,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00075",
@@ -2325,7 +2661,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00076",
@@ -2350,7 +2690,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00077",
@@ -2378,7 +2722,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00078",
@@ -2403,7 +2751,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00079",
@@ -2428,7 +2780,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00080",
@@ -2450,7 +2806,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00081",
@@ -2472,7 +2832,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00082",
@@ -2496,7 +2860,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.5,
+    "curatorial_confidence": "HIGH",
+    "home_featured": true
   },
   {
     "archive_id": "TPC-00083",
@@ -2521,7 +2889,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00084",
@@ -2546,7 +2918,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00085",
@@ -2568,7 +2944,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 9.0,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00086",
@@ -2595,7 +2975,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00087",
@@ -2619,7 +3003,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00088",
@@ -2641,7 +3029,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.6,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00247",
@@ -2668,7 +3060,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.9,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00089",
@@ -2692,7 +3088,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00248",
@@ -2717,7 +3117,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00090",
@@ -2742,7 +3146,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00091",
@@ -2767,7 +3175,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00249",
@@ -2792,7 +3204,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00250",
@@ -2816,7 +3232,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.5,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00251",
@@ -2841,7 +3261,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00092",
@@ -2863,7 +3287,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00093",
@@ -2888,7 +3316,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00094",
@@ -2915,7 +3347,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.8,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00095",
@@ -2942,7 +3378,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00096",
@@ -2966,7 +3406,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00252",
@@ -2991,7 +3435,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00097",
@@ -3016,7 +3464,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00253",
@@ -3040,7 +3492,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00254",
@@ -3067,7 +3523,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00255",
@@ -3092,7 +3552,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00256",
@@ -3116,7 +3580,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00257",
@@ -3140,7 +3608,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "SEQUENCE_MEMBER",
+    "overall_curatorial_score": 8.5,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00258",
@@ -3165,7 +3637,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "SEQUENCE_MEMBER",
+    "overall_curatorial_score": 8.5,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00098",
@@ -3189,7 +3665,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00259",
@@ -3213,7 +3693,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00260",
@@ -3235,7 +3719,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00261",
@@ -3259,7 +3747,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00099",
@@ -3286,7 +3778,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00262",
@@ -3313,7 +3809,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00263",
@@ -3337,7 +3837,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00100",
@@ -3362,7 +3866,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00101",
@@ -3389,7 +3897,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00264",
@@ -3417,7 +3929,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00102",
@@ -3439,7 +3955,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00265",
@@ -3470,7 +3990,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00103",
@@ -3495,7 +4019,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00104",
@@ -3522,7 +4050,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00105",
@@ -3549,7 +4081,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00106",
@@ -3574,7 +4110,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00266",
@@ -3596,7 +4136,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00267",
@@ -3623,7 +4167,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00107",
@@ -3650,7 +4198,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00268",
@@ -3675,7 +4227,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00269",
@@ -3700,7 +4256,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00270",
@@ -3725,7 +4285,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00108",
@@ -3750,7 +4314,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00109",
@@ -3784,7 +4352,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.7,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00110",
@@ -3811,7 +4383,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": true
   },
   {
     "archive_id": "TPC-00111",
@@ -3835,7 +4411,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": true
   },
   {
     "archive_id": "TPC-00271",
@@ -3862,7 +4442,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.6,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00112",
@@ -3888,7 +4472,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00272",
@@ -3912,7 +4500,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00113",
@@ -3939,7 +4531,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00114",
@@ -3963,7 +4559,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00115",
@@ -3992,7 +4592,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00116",
@@ -4017,7 +4621,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00273",
@@ -4047,7 +4655,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00117",
@@ -4074,7 +4686,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00118",
@@ -4099,7 +4715,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00274",
@@ -4121,7 +4741,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.8,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00275",
@@ -4148,7 +4772,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00119",
@@ -4173,7 +4801,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00120",
@@ -4198,7 +4830,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00121",
@@ -4223,7 +4859,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00276",
@@ -4252,7 +4892,11 @@
       "After Dark",
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00122",
@@ -4279,7 +4923,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00123",
@@ -4303,7 +4951,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00124",
@@ -4330,7 +4982,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00125",
@@ -4355,7 +5011,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.6,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00126",
@@ -4382,7 +5042,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.8,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00127",
@@ -4407,7 +5071,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00128",
@@ -4431,7 +5099,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00129",
@@ -4456,7 +5128,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00130",
@@ -4481,7 +5157,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00131",
@@ -4506,7 +5186,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00132",
@@ -4533,7 +5217,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00133",
@@ -4563,7 +5251,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.4,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00134",
@@ -4590,7 +5282,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00135",
@@ -4617,7 +5313,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": true
   },
   {
     "archive_id": "TPC-00136",
@@ -4647,15 +5347,19 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00137",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "nothing-happened-here",
+    "display_condition": "nothing-happened-here",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -4674,7 +5378,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00138",
@@ -4701,7 +5409,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00139",
@@ -4728,7 +5440,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00140",
@@ -4753,7 +5469,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00141",
@@ -4780,7 +5500,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00142",
@@ -4804,7 +5528,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.8,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00143",
@@ -4828,15 +5556,19 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": true
   },
   {
     "archive_id": "TPC-00144",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "things-that-existed-for-me",
+    "display_condition": "things-that-existed-for-me",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -4856,7 +5588,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00145",
@@ -4880,15 +5616,19 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": true
   },
   {
     "archive_id": "TPC-00146",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "things-that-existed-for-me",
+    "display_condition": "things-that-existed-for-me",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -4907,7 +5647,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00147",
@@ -4929,7 +5673,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00148",
@@ -4951,7 +5699,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00149",
@@ -4976,7 +5728,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00150",
@@ -5001,7 +5757,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00151",
@@ -5026,7 +5786,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00277",
@@ -5056,7 +5820,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00152",
@@ -5078,7 +5846,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.7,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00153",
@@ -5103,7 +5875,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00154",
@@ -5131,7 +5907,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00155",
@@ -5156,7 +5936,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00156",
@@ -5185,7 +5969,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00157",
@@ -5212,7 +6000,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00158",
@@ -5234,7 +6026,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00159",
@@ -5256,7 +6052,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00160",
@@ -5278,7 +6078,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00161",
@@ -5305,7 +6109,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00162",
@@ -5329,15 +6137,19 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00163",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "something-happened-here",
+    "display_condition": "something-happened-here",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -5356,7 +6168,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.5,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00164",
@@ -5380,7 +6196,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00165",
@@ -5405,7 +6225,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00166",
@@ -5434,7 +6258,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.6,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00167",
@@ -5461,7 +6289,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00168",
@@ -5486,7 +6318,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00169",
@@ -5511,15 +6347,19 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.7,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00170",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "things-that-existed-for-me",
+    "display_condition": "things-that-existed-for-me",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -5541,7 +6381,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00171",
@@ -5567,7 +6411,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.7,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00172",
@@ -5596,7 +6444,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": true
   },
   {
     "archive_id": "TPC-00173",
@@ -5623,7 +6475,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00174",
@@ -5650,7 +6506,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.8,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00175",
@@ -5675,7 +6535,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00176",
@@ -5702,7 +6566,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00177",
@@ -5727,7 +6595,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00178",
@@ -5751,7 +6623,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00179",
@@ -5773,7 +6649,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00180",
@@ -5795,7 +6675,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00181",
@@ -5817,7 +6701,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00182",
@@ -5839,7 +6727,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00183",
@@ -5866,7 +6758,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00184",
@@ -5890,7 +6786,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00185",
@@ -5915,7 +6815,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.1,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00186",
@@ -5937,7 +6841,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00187",
@@ -5964,7 +6872,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00188",
@@ -5994,7 +6906,11 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00189",
@@ -6016,7 +6932,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00190",
@@ -6038,7 +6958,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00191",
@@ -6062,7 +6986,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00192",
@@ -6089,7 +7017,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00193",
@@ -6111,7 +7043,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00194",
@@ -6135,7 +7071,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00195",
@@ -6159,7 +7099,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00196",
@@ -6181,7 +7125,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "SEQUENCE_MEMBER",
+    "overall_curatorial_score": 8.4,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00197",
@@ -6203,7 +7151,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "SEQUENCE_MEMBER",
+    "overall_curatorial_score": 8.4,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00198",
@@ -6228,7 +7180,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00199",
@@ -6253,7 +7209,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00200",
@@ -6278,7 +7238,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00201",
@@ -6305,7 +7269,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00202",
@@ -6332,7 +7300,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00203",
@@ -6359,7 +7331,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00204",
@@ -6384,7 +7360,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00205",
@@ -6409,7 +7389,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00206",
@@ -6431,7 +7415,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.7,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00207",
@@ -6453,7 +7441,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00208",
@@ -6477,7 +7469,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00209",
@@ -6502,7 +7498,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00210",
@@ -6527,15 +7527,19 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00211",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "nothing-happened-here",
+    "display_condition": "nothing-happened-here",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -6551,7 +7555,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00212",
@@ -6573,7 +7581,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00213",
@@ -6595,7 +7607,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00214",
@@ -6622,7 +7638,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00215",
@@ -6646,7 +7666,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00216",
@@ -6671,7 +7695,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00217",
@@ -6695,7 +7723,11 @@
     "possible_series": [
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.1,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00218",
@@ -6717,7 +7749,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00219",
@@ -6739,7 +7775,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00220",
@@ -6764,7 +7804,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.6,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00221",
@@ -6789,7 +7833,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00222",
@@ -6814,7 +7862,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00223",
@@ -6839,7 +7891,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00224",
@@ -6864,7 +7920,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00225",
@@ -6892,7 +7952,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Green / Urban Nature"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00226",
@@ -6914,7 +7978,11 @@
     ],
     "possible_series": [
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00227",
@@ -6941,7 +8009,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00228",
@@ -6966,7 +8038,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00229",
@@ -6991,7 +8067,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00230",
@@ -7016,7 +8096,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00231",
@@ -7045,7 +8129,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00232",
@@ -7072,7 +8160,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00233",
@@ -7097,7 +8189,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.9,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00234",
@@ -7122,15 +8218,19 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 5.2,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00278",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "between-places",
+    "display_condition": "between-places",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -7149,7 +8249,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.1,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00279",
@@ -7178,7 +8282,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.5,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00280",
@@ -7205,7 +8313,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 6.0,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00281",
@@ -7232,7 +8344,11 @@
       "Built Geometry",
       "Colour Encounters",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "SEQUENCE_MEMBER",
+    "overall_curatorial_score": 8.6,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00282",
@@ -7257,7 +8373,11 @@
     "possible_series": [
       "Built Geometry",
       "Everyday Observations"
-    ]
+    ],
+    "curation_status": "SEQUENCE_MEMBER",
+    "overall_curatorial_score": 8.6,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00235",
@@ -7285,7 +8405,11 @@
       "Built Geometry",
       "Everyday Observations",
       "Places and Passage"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.5,
+    "curatorial_confidence": "HIGH",
+    "home_featured": false
   },
   {
     "archive_id": "TPC-00236",
@@ -7312,15 +8436,19 @@
     "possible_series": [
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "ARCHIVE_ONLY",
+    "overall_curatorial_score": 7.4,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": true
   },
   {
     "archive_id": "TPC-00283",
     "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
+    "content_pool": "CONDITION",
+    "condition": "something-happened-here",
+    "display_condition": "something-happened-here",
+    "condition_promotion": true,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
     "subject": "Other",
@@ -7339,6 +8467,10 @@
       "Colour Encounters",
       "Everyday Observations",
       "Fragments and Details"
-    ]
+    ],
+    "curation_status": "CURATED",
+    "overall_curatorial_score": 8.3,
+    "curatorial_confidence": "MEDIUM",
+    "home_featured": false
   }
 ]

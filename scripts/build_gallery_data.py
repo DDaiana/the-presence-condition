@@ -5,6 +5,9 @@ ROOT=Path(__file__).resolve().parents[1]
 inventory=json.loads((ROOT/'data/photo-inventory.json').read_text())
 classified=json.loads((ROOT/'reports/library-classification.json').read_text())['records']
 editorial_assignments=json.loads((ROOT/'data/condition-assignments.json').read_text())
+curation_path=ROOT/'data/photograph-curation.json'
+curation_records=json.loads(curation_path.read_text())['records'] if curation_path.exists() else []
+curation_by_id={r['photo_id']:r for r in curation_records}
 by_file={r['original_filename']:r for r in classified}
 assigned={archive_id:slug for slug,archive_ids in editorial_assignments.items() for archive_id in archive_ids}
 
@@ -22,11 +25,16 @@ for item in inventory:
     promoted=item['archive_id'] in assigned
     content_pool='CONDITION' if classification in {'FEATURE','SUPPORTING'} or promoted else ('ARCHIVE' if classification=='ARCHIVE' else 'RETAINED_ONLY')
     condition=public_condition(c,item['archive_id']) if content_pool=='CONDITION' else None
+    curatorial=curation_by_id.get(item['archive_id'])
     gallery.append({'archive_id':item['archive_id'],'classification':classification,'content_pool':content_pool,
       'condition':condition,'display_condition':condition,'condition_promotion':promoted and classification=='ARCHIVE',
       'primary_condition':c['primary_condition'],'secondary_conditions':c['secondary_conditions'],
       'subject':c['subject'],'subject_subtype':c['subject_subtype'],'sequence_id':c['sequence_id'],
-      'featured':classification=='FEATURE','tags':c['tags'],'possible_series':c['possible_series']})
+      'featured':classification=='FEATURE','tags':c['tags'],'possible_series':c['possible_series'],
+      'curation_status':curatorial['curation_status'] if curatorial else None,
+      'overall_curatorial_score':curatorial['overall_curatorial_score'] if curatorial else None,
+      'curatorial_confidence':curatorial['curatorial_confidence'] if curatorial else None,
+      'home_featured':curatorial['home_featured'] if curatorial else False})
     metadata.append({'archive_id':item['archive_id'],'public_date':item.get('public_date')})
 
 (ROOT/'data/public-archive.json').write_text(json.dumps(gallery,indent=2)+'\n')
