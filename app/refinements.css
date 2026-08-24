@@ -43,6 +43,10 @@
   line-height: 1.45;
 }
 
+.archive-count {
+  margin: -30px 0 18px;
+}
+
 .photo-strip a:hover img,
 .archive-grid a:hover img {
   opacity: 0.86;
