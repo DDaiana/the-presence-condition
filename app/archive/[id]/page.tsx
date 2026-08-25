@@ -6,7 +6,7 @@ import conditions from "../../../data/conditions.json";
 import {Shell} from "../../components";
 import ShareButton from "./share-button";
 
-const isPublic=(p:(typeof publicArchive)[number])=>p.curation_status==="CURATED"||p.curation_status==="SEQUENCE_MEMBER"||p.home_featured;
+const isPublic=(p:(typeof publicArchive)[number])=>p.content_pool==="ARCHIVE"||p.curation_status==="CURATED"||p.curation_status==="SEQUENCE_MEMBER"||p.home_featured;
 export function generateStaticParams(){return publicArchive.filter(isPublic).map(p=>({id:p.archive_id}))}
 
 export default async function Photo({params}:{params:Promise<{id:string}>}){

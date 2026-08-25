@@ -2,24 +2,25 @@
 
 ## Summary
 
-- Total photographs assessed: 283
-- Total qualifying at 8.0+: 57
-- Total selected publicly: 57
-- Total retained Archive Only: 226
+- Total photographs assessed: 266
+- Total qualifying at 8.0+: 51
+- Total selected publicly: 51
+- Total retained Archive Only: 215
 - Total Human Review: 0
 - Original photographs deleted, renamed, moved or altered: 0
 - Existing Condition-to-Condition assignments changed: 0
-- Presence Archive entries newly transferred to one public Condition: 17
+- Photographs are assigned exclusively to either a public Condition or The Presence Archive.
 - Home/start-page photographs preserved regardless of threshold: 10
 
 ## Selected counts by Condition
 
-- between-places: 9
+- THE PRESENCE ARCHIVE: 2
+- between-places: 8
 - nothing-happened-here: 6
-- something-happened-here: 10
+- something-happened-here: 9
 - the-things-i-didnt-go-looking-for: 8
-- things-that-existed-for-me: 14
-- while-we-were-here: 10
+- things-that-existed-for-me: 9
+- while-we-were-here: 9
 
 ## Selected counts by Year
 
@@ -27,8 +28,8 @@
 - 2022: 8
 - 2023: 5
 - 2024: 12
-- 2025: 8
-- 2026: 11
+- 2025: 7
+- 2026: 6
 - UNKNOWN: 2
 
 ## Temporal coverage
@@ -38,12 +39,12 @@ Qualifying work survives across every dated year from 2021 through 2026. Selecti
 ## Coverage gaps
 
 - 2023 × the-things-i-didnt-go-looking-for
+- 2026 × things-that-existed-for-me
 
 ## Sequences retained
 
 - SEQ-COPRESENCE-2021-01: TPC-00003 → TPC-00004. Repetition records a person's continued movement through the garden.
 - SEQ-TRANSIT-2024-01: TPC-00257 → TPC-00258. Repeated vessel views establish passage and a changing position in transit.
-- SEQ-ATTENTION-2026-01: TPC-00196 → TPC-00197. The repeated street encounter shifts attention from environment to the parked car.
 - SEQ-TRACE-2026-01: TPC-00281 (BEFORE) → TPC-00282 (AFTER). The transformation is the documentary meaning; the two frames function as one curatorial unit.
 
 ## Anchor-image candidates

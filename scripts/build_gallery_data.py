@@ -23,7 +23,10 @@ gallery=[];metadata=[]
 for item in inventory:
     c=by_file[item['source_file']];classification=c['classification']
     promoted=item['archive_id'] in assigned
-    content_pool='CONDITION' if classification in {'FEATURE','SUPPORTING'} or promoted else ('ARCHIVE' if classification=='ARCHIVE' else 'RETAINED_ONLY')
+    # Public ownership is explicit and exclusive: only editorially assigned
+    # photographs enter a Condition. Every other retained source photograph
+    # belongs to The Presence Archive.
+    content_pool='CONDITION' if promoted else 'ARCHIVE'
     condition=public_condition(c,item['archive_id']) if content_pool=='CONDITION' else None
     curatorial=curation_by_id.get(item['archive_id'])
     gallery.append({'archive_id':item['archive_id'],'classification':classification,'content_pool':content_pool,

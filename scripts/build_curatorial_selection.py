@@ -18,26 +18,24 @@ selected = {
     "TPC-00005": 8.4, "TPC-00054": 8.7, "TPC-00060": 8.6, "TPC-00082": 8.5,
     "TPC-00133": 8.4, "TPC-00171": 8.7,
     "TPC-00034": 8.5, "TPC-00055": 8.2, "TPC-00056": 8.0, "TPC-00267": 8.2,
-    "TPC-00237": 8.1, "TPC-00163": 8.5, "TPC-00283": 8.3,
+    "TPC-00237": 8.1, "TPC-00283": 8.3,
     "TPC-00281": 8.6, "TPC-00282": 8.6,
     "TPC-00001": 8.1, "TPC-00039": 8.3, "TPC-00109": 8.7, "TPC-00250": 8.5,
     "TPC-00142": 8.8, "TPC-00186": 8.3, "TPC-00029": 8.2, "TPC-00050": 8.0,
     "TPC-00235": 8.5, "TPC-00022": 8.5, "TPC-00049": 8.4, "TPC-00239": 8.6,
-    "TPC-00247": 8.9, "TPC-00271": 8.6, "TPC-00277": 8.3, "TPC-00197": 8.4,
-    "TPC-00196": 8.4, "TPC-00030": 8.3, "TPC-00144": 8.3,
+    "TPC-00247": 8.9, "TPC-00271": 8.6, "TPC-00277": 8.3,
+    "TPC-00030": 8.3, "TPC-00144": 8.3,
     "TPC-00003": 8.3, "TPC-00004": 8.3, "TPC-00023": 8.6, "TPC-00040": 8.6, "TPC-00085": 9.0, "TPC-00125": 8.6,
-    "TPC-00152": 8.7, "TPC-00174": 8.8, "TPC-00220": 8.6,
+    "TPC-00152": 8.7, "TPC-00174": 8.8,
     # These photographs passed while still in The Presence Archive and retain
     # their scores after their later one-time transfer to a Condition.
     "TPC-00011": 8.1, "TPC-00241": 8.0, "TPC-00242": 8.2,
-    "TPC-00146": 8.3, "TPC-00170": 8.2, "TPC-00278": 8.1,
+    "TPC-00146": 8.3,
 }
 
 sequence = {
     "TPC-00003": ("SEQ-COPRESENCE-2021-01", "APPROACH", 8.3),
     "TPC-00004": ("SEQ-COPRESENCE-2021-01", "PASSAGE", 8.3),
-    "TPC-00196": ("SEQ-ATTENTION-2026-01", "FIRST FRAME", 8.4),
-    "TPC-00197": ("SEQ-ATTENTION-2026-01", "SECOND FRAME", 8.4),
     "TPC-00257": ("SEQ-TRANSIT-2024-01", "OUTWARD VIEW", 8.5),
     "TPC-00258": ("SEQ-TRANSIT-2024-01", "RETURN VIEW", 8.5),
     "TPC-00281": ("SEQ-TRACE-2026-01", "BEFORE", 8.6),
@@ -138,7 +136,7 @@ for item in archive:
 
 columns = ["Photo_ID", "Date", "Year", "Primary_Condition", "Public_Condition", "Overall_Score", "Curation_Status", "Confidence", "Sequence_ID", "Reason"]
 with (ROOT / "TPC_PHOTOGRAPH_CURATION.csv").open("w", newline="") as handle:
-    writer = csv.DictWriter(handle, fieldnames=columns)
+    writer = csv.DictWriter(handle, fieldnames=columns, lineterminator="\n")
     writer.writeheader()
     for row in records:
         writer.writerow({
@@ -171,7 +169,7 @@ report = f"""# TPC Photograph Curatorial Report
 - Total Human Review: 0
 - Original photographs deleted, renamed, moved or altered: 0
 - Existing Condition-to-Condition assignments changed: 0
-- Presence Archive entries newly transferred to one public Condition: 17
+- Photographs are assigned exclusively to either a public Condition or The Presence Archive.
 - Home/start-page photographs preserved regardless of threshold: {len(home_featured)}
 
 ## Selected counts by Condition
@@ -190,7 +188,6 @@ Qualifying work survives across every dated year from {all_years[0]} through {al
 
 - SEQ-COPRESENCE-2021-01: TPC-00003 → TPC-00004. Repetition records a person's continued movement through the garden.
 - SEQ-TRANSIT-2024-01: TPC-00257 → TPC-00258. Repeated vessel views establish passage and a changing position in transit.
-- SEQ-ATTENTION-2026-01: TPC-00196 → TPC-00197. The repeated street encounter shifts attention from environment to the parked car.
 - SEQ-TRACE-2026-01: TPC-00281 (BEFORE) → TPC-00282 (AFTER). The transformation is the documentary meaning; the two frames function as one curatorial unit.
 
 ## Anchor-image candidates
