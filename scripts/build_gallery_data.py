@@ -30,8 +30,9 @@ for item in inventory:
     # regardless of its internal preservation class or taxonomy label.
     content_pool='CONDITION' if condition_selected else 'ARCHIVE'
     condition=public_condition(c,item['archive_id']) if content_pool=='CONDITION' else None
+    display_condition=public_condition(c,item['archive_id']) if promoted else None
     gallery.append({'archive_id':item['archive_id'],'classification':classification,'content_pool':content_pool,
-      'condition':condition,'display_condition':condition,'condition_promotion':promoted and classification=='ARCHIVE',
+      'condition':condition,'display_condition':display_condition,'condition_promotion':promoted and classification=='ARCHIVE',
       'primary_condition':c['primary_condition'],'secondary_conditions':c['secondary_conditions'],
       'subject':c['subject'],'subject_subtype':c['subject_subtype'],'sequence_id':c['sequence_id'],
       'featured':classification=='FEATURE','tags':c['tags'],'possible_series':c['possible_series'],
