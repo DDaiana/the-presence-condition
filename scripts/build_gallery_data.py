@@ -22,13 +22,14 @@ def public_condition(record,archive_id):
 gallery=[];metadata=[]
 for item in inventory:
     c=by_file[item['source_file']];classification=c['classification']
-    promoted=item['archive_id'] in assigned
-    # Public ownership is explicit and exclusive: only editorially assigned
-    # photographs enter a Condition. Every other retained source photograph
-    # belongs to The Presence Archive.
-    content_pool='CONDITION' if promoted else 'ARCHIVE'
-    condition=public_condition(c,item['archive_id']) if content_pool=='CONDITION' else None
     curatorial=curation_by_id.get(item['archive_id'])
+    promoted=item['archive_id'] in assigned
+    condition_selected=promoted and curatorial and curatorial['curation_status'] in {'CURATED','SEQUENCE_MEMBER'}
+    # The public Condition pages contain only the last approved curated edit.
+    # Every other retained photograph belongs to The Presence Archive,
+    # regardless of its internal preservation class or taxonomy label.
+    content_pool='CONDITION' if condition_selected else 'ARCHIVE'
+    condition=public_condition(c,item['archive_id']) if content_pool=='CONDITION' else None
     gallery.append({'archive_id':item['archive_id'],'classification':classification,'content_pool':content_pool,
       'condition':condition,'display_condition':condition,'condition_promotion':promoted and classification=='ARCHIVE',
       'primary_condition':c['primary_condition'],'secondary_conditions':c['secondary_conditions'],
