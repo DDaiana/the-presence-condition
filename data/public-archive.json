@@ -64,38 +64,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00003",
-    "classification": "SUPPORTING",
-    "content_pool": "CONDITION",
-    "condition": "while-we-were-here",
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-001",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "details",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational",
-      "portrait-orientation"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations",
-      "Fragments and Details"
-    ],
-    "curation_status": "SEQUENCE_MEMBER",
-    "overall_curatorial_score": 8.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00004",
     "classification": "SUPPORTING",
     "content_pool": "CONDITION",
@@ -124,7 +92,7 @@
       "Everyday Observations",
       "Fragments and Details"
     ],
-    "curation_status": "SEQUENCE_MEMBER",
+    "curation_status": "CURATED",
     "overall_curatorial_score": 8.3,
     "curatorial_confidence": "MEDIUM",
     "home_featured": false
@@ -273,40 +241,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00009",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "the-things-i-didnt-go-looking-for",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-002",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "details",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational",
-      "portrait-orientation"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations",
-      "Fragments and Details"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00011",
     "classification": "ARCHIVE",
     "content_pool": "CONDITION",
@@ -374,40 +308,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00013",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-003",
-    "featured": false,
-    "tags": [
-      "colour",
-      "documentary",
-      "everyday-life",
-      "green",
-      "landscape-orientation",
-      "nature",
-      "observational",
-      "sense-of-place"
-    ],
-    "possible_series": [
-      "Colour Encounters",
-      "Everyday Observations",
-      "Green / Urban Nature",
-      "Places and Passage"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00014",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -436,75 +336,6 @@
     ],
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 6.7,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00015",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "nothing-happened-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-003",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "green",
-      "landscape-orientation",
-      "nature",
-      "observational",
-      "sense-of-place"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations",
-      "Green / Urban Nature",
-      "Places and Passage"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00016",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "things-that-existed-for-me",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "details",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational",
-      "portrait-orientation"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations",
-      "Fragments and Details"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
     "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
@@ -568,71 +399,6 @@
     ],
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00019",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "things-that-existed-for-me",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-004",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "details",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational",
-      "portrait-orientation"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations",
-      "Fragments and Details"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00020",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "something-happened-here",
-    "condition_promotion": true,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "colour",
-      "documentary",
-      "everyday-life",
-      "landscape-orientation",
-      "observational",
-      "sense-of-place"
-    ],
-    "possible_series": [
-      "Colour Encounters",
-      "Everyday Observations",
-      "Places and Passage"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
     "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
@@ -807,38 +573,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00026",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "the-things-i-didnt-go-looking-for",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-005",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "details",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational",
-      "portrait-orientation"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations",
-      "Fragments and Details"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00027",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -969,37 +703,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00031",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "the-things-i-didnt-go-looking-for",
-    "condition_promotion": true,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "colour",
-      "documentary",
-      "everyday-life",
-      "landscape-orientation",
-      "observational",
-      "sense-of-place"
-    ],
-    "possible_series": [
-      "Colour Encounters",
-      "Everyday Observations",
-      "Places and Passage"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00032",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -1027,35 +730,6 @@
     ],
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00033",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "details",
-      "documentary",
-      "everyday-life",
-      "observational",
-      "portrait-orientation"
-    ],
-    "possible_series": [
-      "Everyday Observations",
-      "Fragments and Details"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.7,
     "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
@@ -1088,103 +762,6 @@
     "curation_status": "CURATED",
     "overall_curatorial_score": 8.5,
     "curatorial_confidence": "HIGH",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00035",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "the-things-i-didnt-go-looking-for",
-    "condition_promotion": true,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "details",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational",
-      "portrait-orientation"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations",
-      "Fragments and Details"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.2,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00037",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "something-happened-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-006",
-    "featured": false,
-    "tags": [
-      "colour",
-      "documentary",
-      "everyday-life",
-      "landscape-orientation",
-      "observational",
-      "sense-of-place"
-    ],
-    "possible_series": [
-      "Colour Encounters",
-      "Everyday Observations",
-      "Places and Passage"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00038",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "the-things-i-didnt-go-looking-for",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-006",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "landscape-orientation",
-      "observational",
-      "sense-of-place"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations",
-      "Places and Passage"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.7,
-    "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
   {
@@ -1692,37 +1269,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00238",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00055",
     "classification": "ARCHIVE",
     "content_pool": "CONDITION",
@@ -1808,35 +1354,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00057",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "things-that-existed-for-me",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00240",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -1860,32 +1377,6 @@
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 6.0,
     "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00059",
-    "classification": "SUPPORTING",
-    "content_pool": "CONDITION",
-    "condition": "between-places",
-    "display_condition": "between-places",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-007",
-    "featured": false,
-    "tags": [
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "CURATED",
-    "overall_curatorial_score": 8.0,
-    "curatorial_confidence": "HIGH",
     "home_featured": false
   },
   {
@@ -2097,40 +1588,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00243",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "between-places",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-008",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "green",
-      "nature",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations",
-      "Green / Urban Nature"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.4,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00244",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -2314,66 +1771,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00069",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "the-things-i-didnt-go-looking-for",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-010",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00070",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "between-places",
-    "condition_promotion": true,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00071",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -2395,61 +1792,6 @@
     ],
     "possible_series": [
       "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.7,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00072",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-011",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00073",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "between-places",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
       "Everyday Observations"
     ],
     "curation_status": "ARCHIVE_ONLY",
@@ -2856,34 +2198,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00087",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": true,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "colour",
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.2,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00088",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -3027,35 +2341,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00091",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-016",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00249",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -3138,32 +2423,6 @@
     ],
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00092",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "between-places",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.7,
     "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
@@ -3373,37 +2632,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00254",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "between-places",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-018",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00255",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -3425,34 +2653,6 @@
     ],
     "possible_series": [
       "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00256",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "things-that-existed-for-me",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-018",
-    "featured": false,
-    "tags": [
-      "colour",
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Colour Encounters",
       "Everyday Observations"
     ],
     "curation_status": "ARCHIVE_ONLY",
@@ -3515,116 +2715,6 @@
     "curation_status": "SEQUENCE_MEMBER",
     "overall_curatorial_score": 8.5,
     "curatorial_confidence": "HIGH",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00098",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-019",
-    "featured": false,
-    "tags": [
-      "colour",
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.9,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00259",
-    "classification": "FEATURE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
-    "primary_condition": "CROSSING",
-    "secondary_conditions": [
-      "TRACE"
-    ],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-019",
-    "featured": true,
-    "tags": [
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 7.9,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00260",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-019",
-    "featured": false,
-    "tags": [
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.9,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00261",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-020",
-    "featured": false,
-    "tags": [
-      "colour",
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
   {
@@ -3718,35 +2808,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00100",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-021",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.4,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00101",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -3778,38 +2839,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00264",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "between-places",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-022",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "green",
-      "nature",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations",
-      "Green / Urban Nature"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00102",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -3828,41 +2857,6 @@
       "observational"
     ],
     "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00265",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "between-places",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "atmosphere",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "light",
-      "night",
-      "observational"
-    ],
-    "possible_series": [
-      "After Dark",
-      "Built Geometry",
-      "Colour Encounters",
       "Everyday Observations"
     ],
     "curation_status": "ARCHIVE_ONLY",
@@ -3896,37 +2890,6 @@
     ],
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00104",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "between-places",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-023",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
     "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
@@ -4048,37 +3011,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00107",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-024",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.4,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00268",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -4108,69 +3040,11 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00269",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.7,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00270",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
     "condition": null,
     "display_condition": null,
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-025",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.4,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00108",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
     "condition_promotion": false,
     "primary_condition": "UNKNOWN",
     "secondary_conditions": [],
@@ -4349,34 +3223,6 @@
     ],
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 7.5,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00272",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "something-happened-here",
-    "condition_promotion": true,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "colour",
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
     "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
@@ -4980,35 +3826,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00130",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.2,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00131",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -5192,37 +4009,6 @@
       "Colour Encounters",
       "Everyday Observations",
       "Green / Urban Nature"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00137",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "nothing-happened-here",
-    "condition_promotion": true,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations"
     ],
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 5.3,
@@ -5499,32 +4285,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00147",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00148",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -5698,35 +4458,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00153",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-029",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00154",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -5752,35 +4483,6 @@
       "Built Geometry",
       "Everyday Observations",
       "Fragments and Details"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00155",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "nothing-happened-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
     ],
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 6.0,
@@ -5852,32 +4554,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00158",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-030",
-    "featured": false,
-    "tags": [
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00159",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -5896,91 +4572,6 @@
       "observational"
     ],
     "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00160",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-030",
-    "featured": false,
-    "tags": [
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.7,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00161",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "between-places",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-030",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00162",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "nothing-happened-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-030",
-    "featured": false,
-    "tags": [
-      "colour",
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Colour Encounters",
       "Everyday Observations"
     ],
     "curation_status": "ARCHIVE_ONLY",
@@ -6291,35 +4882,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00177",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-033",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.4,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00178",
     "classification": "ARCHIVE",
     "content_pool": "ARCHIVE",
@@ -6370,32 +4932,6 @@
     ],
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 6.7,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00180",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-034",
-    "featured": false,
-    "tags": [
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
     "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
@@ -6536,37 +5072,6 @@
     ],
     "curation_status": "CURATED",
     "overall_curatorial_score": 8.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00187",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "the-things-i-didnt-go-looking-for",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-036",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
     "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
@@ -6796,35 +5301,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00200",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "nothing-happened-here",
-    "condition_promotion": true,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.2,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00201",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -6918,35 +5394,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00204",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "between-places",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-040",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00205",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -6998,32 +5445,6 @@
     ],
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 6.7,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00207",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": true,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.2,
     "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
@@ -7114,34 +5535,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00211",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "nothing-happened-here",
-    "condition_promotion": true,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "colour",
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.2,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00212",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -7190,37 +5583,6 @@
     ],
     "curation_status": "ARCHIVE_ONLY",
     "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00214",
-    "classification": "ARCHIVE",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": null,
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": null,
-    "featured": false,
-    "tags": [
-      "architecture",
-      "colour",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
     "curatorial_confidence": "MEDIUM",
     "home_featured": false
   },
@@ -7391,35 +5753,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00222",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-043",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00223",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -7449,93 +5782,6 @@
     "home_featured": false
   },
   {
-    "archive_id": "TPC-00224",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "while-we-were-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-043",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00225",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "the-things-i-didnt-go-looking-for",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-043",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "green",
-      "nature",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
-      "Everyday Observations",
-      "Green / Urban Nature"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00226",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "something-happened-here",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-044",
-    "featured": false,
-    "tags": [
-      "documentary",
-      "everyday-life",
-      "observational"
-    ],
-    "possible_series": [
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 6.0,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
     "archive_id": "TPC-00227",
     "classification": "SUPPORTING",
     "content_pool": "ARCHIVE",
@@ -7559,35 +5805,6 @@
     "possible_series": [
       "Built Geometry",
       "Colour Encounters",
-      "Everyday Observations"
-    ],
-    "curation_status": "ARCHIVE_ONLY",
-    "overall_curatorial_score": 5.3,
-    "curatorial_confidence": "MEDIUM",
-    "home_featured": false
-  },
-  {
-    "archive_id": "TPC-00228",
-    "classification": "SUPPORTING",
-    "content_pool": "ARCHIVE",
-    "condition": null,
-    "display_condition": "between-places",
-    "condition_promotion": false,
-    "primary_condition": "UNKNOWN",
-    "secondary_conditions": [],
-    "subject": "Other",
-    "subject_subtype": "visual subject requires human confirmation",
-    "sequence_id": "SEQ-CANDIDATE-045",
-    "featured": false,
-    "tags": [
-      "architecture",
-      "documentary",
-      "everyday-life",
-      "geometry",
-      "observational"
-    ],
-    "possible_series": [
-      "Built Geometry",
       "Everyday Observations"
     ],
     "curation_status": "ARCHIVE_ONLY",

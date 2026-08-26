@@ -12,7 +12,7 @@ classification = {row["filename"]: row for row in json.loads((ROOT / "reports/li
 # Decisions from the 2026-08-24 full contact-sheet review. Condition assignments are
 # deliberately not stored here: this layer can only assess or suppress a photograph.
 selected = {
-    "TPC-00021": 8.4, "TPC-00041": 8.5, "TPC-00059": 8.0, "TPC-00094": 8.8,
+    "TPC-00021": 8.4, "TPC-00041": 8.5, "TPC-00094": 8.8,
     "TPC-00257": 8.5, "TPC-00258": 8.5,
     "TPC-00166": 8.6, "TPC-00169": 8.7,
     "TPC-00005": 8.4, "TPC-00054": 8.7, "TPC-00060": 8.6, "TPC-00082": 8.5,
@@ -25,7 +25,7 @@ selected = {
     "TPC-00235": 8.5, "TPC-00022": 8.5, "TPC-00049": 8.4, "TPC-00239": 8.6,
     "TPC-00247": 8.9, "TPC-00271": 8.6, "TPC-00277": 8.3,
     "TPC-00030": 8.3, "TPC-00144": 8.3,
-    "TPC-00003": 8.3, "TPC-00004": 8.3, "TPC-00023": 8.6, "TPC-00040": 8.6, "TPC-00085": 9.0, "TPC-00125": 8.6,
+    "TPC-00004": 8.3, "TPC-00023": 8.6, "TPC-00040": 8.6, "TPC-00085": 9.0, "TPC-00125": 8.6,
     "TPC-00152": 8.7, "TPC-00174": 8.8,
     # These photographs passed while still in The Presence Archive and retain
     # their scores after their later one-time transfer to a Condition.
@@ -34,8 +34,6 @@ selected = {
 }
 
 sequence = {
-    "TPC-00003": ("SEQ-COPRESENCE-2021-01", "APPROACH", 8.3),
-    "TPC-00004": ("SEQ-COPRESENCE-2021-01", "PASSAGE", 8.3),
     "TPC-00257": ("SEQ-TRANSIT-2024-01", "OUTWARD VIEW", 8.5),
     "TPC-00258": ("SEQ-TRANSIT-2024-01", "RETURN VIEW", 8.5),
     "TPC-00281": ("SEQ-TRACE-2026-01", "BEFORE", 8.6),
@@ -186,7 +184,6 @@ Qualifying work survives across every dated year from {all_years[0]} through {al
 
 ## Sequences retained
 
-- SEQ-COPRESENCE-2021-01: TPC-00003 → TPC-00004. Repetition records a person's continued movement through the garden.
 - SEQ-TRANSIT-2024-01: TPC-00257 → TPC-00258. Repeated vessel views establish passage and a changing position in transit.
 - SEQ-TRACE-2026-01: TPC-00281 (BEFORE) → TPC-00282 (AFTER). The transformation is the documentary meaning; the two frames function as one curatorial unit.
 

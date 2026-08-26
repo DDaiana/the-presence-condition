@@ -21,7 +21,7 @@ The approved incremental process is documented in [docs/PHOTOGRAPH_PROCESSING_WO
 Original photographs remain outside this repository. Point the scanner at the authoritative local directory, then build privacy-safe web derivatives:
 
 ```sh
-TPC_PHOTO_SOURCE="/absolute/path/to/photography-portfolio" pnpm archive:scan
+TPC_PHOTO_SOURCE="/absolute/path/to/artist-photography-portfolio" pnpm archive:scan
 pnpm archive:classify
 pnpm archive:build
 pnpm archive:validate

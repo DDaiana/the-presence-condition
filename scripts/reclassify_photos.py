@@ -6,7 +6,7 @@ from photo_selection import Evidence,classify
 from condition_classifier import Context,classify_condition
 
 REPO=Path(__file__).resolve().parents[1]
-SOURCE=Path("/Users/daiana-melaniadobre/Library/Mobile Documents/com~apple~CloudDocs/001_Jimmy's business/System Feythic Live/01_ACTIVE/TPC-20260515-21/content/visual/photography-portfolio")
+SOURCE=Path("/Users/daiana-melaniadobre/Library/Mobile Documents/com~apple~CloudDocs/001_Jimmy's business/System Feythic Live/01_ACTIVE/TPC-20260515-21/content/visual/artist-photography-portfolio")
 REPORTS=REPO/'reports';THUMBS=REPORTS/'reclassification-thumbnails'
 RECOVERED_FROM_CONCEPTUAL={
  '20240913_151004.jpg','20241011_144452.jpg','20241120_102425.jpg','20250721_184641.jpg',

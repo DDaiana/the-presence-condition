@@ -2,10 +2,10 @@
 
 ## Summary
 
-- Total photographs assessed: 266
-- Total qualifying at 8.0+: 51
-- Total selected publicly: 51
-- Total retained Archive Only: 215
+- Total photographs assessed: 206
+- Total qualifying at 8.0+: 49
+- Total selected publicly: 49
+- Total retained Archive Only: 157
 - Total Human Review: 0
 - Original photographs deleted, renamed, moved or altered: 0
 - Existing Condition-to-Condition assignments changed: 0
@@ -15,18 +15,18 @@
 ## Selected counts by Condition
 
 - THE PRESENCE ARCHIVE: 2
-- between-places: 8
+- between-places: 7
 - nothing-happened-here: 6
 - something-happened-here: 9
 - the-things-i-didnt-go-looking-for: 8
 - things-that-existed-for-me: 9
-- while-we-were-here: 9
+- while-we-were-here: 8
 
 ## Selected counts by Year
 
-- 2021: 11
+- 2021: 10
 - 2022: 8
-- 2023: 5
+- 2023: 4
 - 2024: 12
 - 2025: 7
 - 2026: 6
@@ -38,12 +38,10 @@ Qualifying work survives across every dated year from 2021 through 2026. Selecti
 
 ## Coverage gaps
 
-- 2023 × the-things-i-didnt-go-looking-for
-- 2026 × things-that-existed-for-me
+- None
 
 ## Sequences retained
 
-- SEQ-COPRESENCE-2021-01: TPC-00003 → TPC-00004. Repetition records a person's continued movement through the garden.
 - SEQ-TRANSIT-2024-01: TPC-00257 → TPC-00258. Repeated vessel views establish passage and a changing position in transit.
 - SEQ-TRACE-2026-01: TPC-00281 (BEFORE) → TPC-00282 (AFTER). The transformation is the documentary meaning; the two frames function as one curatorial unit.
 

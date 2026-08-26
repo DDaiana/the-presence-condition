@@ -4,7 +4,7 @@ import {basename,extname,join} from "node:path";
 import {execFileSync} from "node:child_process";
 
 const root=process.env.TPC_PHOTO_SOURCE;
-if(!root) throw new Error("Set TPC_PHOTO_SOURCE to the authoritative photography-portfolio directory.");
+if(!root) throw new Error("Set TPC_PHOTO_SOURCE to the authoritative artist-photography-portfolio directory.");
 const supported=new Set([".jpg",".jpeg",".png",".heic",".webp",".tif",".tiff"]);
 async function walk(dir){const out=[];for(const entry of await readdir(dir,{withFileTypes:true})){const p=join(dir,entry.name);if(entry.isDirectory())out.push(...await walk(p));else if(!entry.name.startsWith("TPC_")&&supported.has(extname(entry.name).toLowerCase()))out.push(p)}return out}
 async function optionalJson(path,fallback){try{return JSON.parse(await readFile(path,"utf8"))}catch{return fallback}}

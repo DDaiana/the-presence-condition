@@ -32,10 +32,10 @@ Do not infer a Condition from the depicted object alone. Food, people, buildings
 
 ## Source of truth
 
-The authoritative originals directory is `photography-portfolio`. Set it explicitly for every ingestion session:
+The authoritative originals directory is `artist-photography-portfolio`. Set it explicitly for every ingestion session:
 
 ```sh
-export TPC_PHOTO_SOURCE="/absolute/path/to/photography-portfolio"
+export TPC_PHOTO_SOURCE="/absolute/path/to/artist-photography-portfolio"
 ```
 
 Files beginning with `TPC_` are working reports/contact sheets and are excluded from photo ingestion. The hash registry preserves stable TPC IDs. Do not manually reuse an ID.
@@ -172,11 +172,11 @@ Review the exact counts by destination and Condition. Commit only intended files
 
 At the time this workflow was registered:
 
-- Source photographs: 266
-- Curated Condition photographs: 49
-- Presence Archive photographs: 217
-- Archive photographs retaining an assigned Condition on their detail page: 193
-- Genuinely unassigned Archive photographs: 24
+- Source photographs: 206
+- Curated Condition photographs: 47
+- Presence Archive photographs: 159
+- Archive photographs retaining an assigned Condition on their detail page: 143
+- Genuinely unassigned Archive photographs: 16
 - Home/start-page editorial photographs: 10
 - Archive/Condition gallery overlap: 0
 

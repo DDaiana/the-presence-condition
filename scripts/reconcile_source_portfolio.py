@@ -8,7 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCE = Path(
     "/Users/daiana-melaniadobre/Library/Mobile Documents/com~apple~CloudDocs/"
     "001_Jimmy's business/System Feythic Live/01_ACTIVE/TPC-20260515-21/"
-    "content/visual/photography-portfolio"
+    "content/visual/artist-photography-portfolio"
 )
 SOURCE = Path(os.environ.get("TPC_PHOTO_SOURCE", DEFAULT_SOURCE))
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".heic", ".heif", ".webp", ".tif", ".tiff"}

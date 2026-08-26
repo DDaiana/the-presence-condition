@@ -8,10 +8,6 @@
     "public_date": "2021-07-04"
   },
   {
-    "archive_id": "TPC-00003",
-    "public_date": "2021-07-04"
-  },
-  {
     "archive_id": "TPC-00004",
     "public_date": "2021-07-04"
   },
@@ -32,10 +28,6 @@
     "public_date": "2021-07-10"
   },
   {
-    "archive_id": "TPC-00009",
-    "public_date": "2021-07-10"
-  },
-  {
     "archive_id": "TPC-00011",
     "public_date": "2021-07-10"
   },
@@ -44,20 +36,8 @@
     "public_date": "2021-07-10"
   },
   {
-    "archive_id": "TPC-00013",
-    "public_date": "2021-07-12"
-  },
-  {
     "archive_id": "TPC-00014",
     "public_date": "2021-07-12"
-  },
-  {
-    "archive_id": "TPC-00015",
-    "public_date": "2021-07-12"
-  },
-  {
-    "archive_id": "TPC-00016",
-    "public_date": "2021-07-13"
   },
   {
     "archive_id": "TPC-00017",
@@ -66,14 +46,6 @@
   {
     "archive_id": "TPC-00018",
     "public_date": "2021-07-16"
-  },
-  {
-    "archive_id": "TPC-00019",
-    "public_date": "2021-07-16"
-  },
-  {
-    "archive_id": "TPC-00020",
-    "public_date": "2021-07-18"
   },
   {
     "archive_id": "TPC-00021",
@@ -96,10 +68,6 @@
     "public_date": "2021-07-24"
   },
   {
-    "archive_id": "TPC-00026",
-    "public_date": "2021-07-31"
-  },
-  {
     "archive_id": "TPC-00027",
     "public_date": "2021-07-31"
   },
@@ -116,32 +84,12 @@
     "public_date": "2021-08-18"
   },
   {
-    "archive_id": "TPC-00031",
-    "public_date": "2021-08-23"
-  },
-  {
     "archive_id": "TPC-00032",
     "public_date": "2021-08-29"
   },
   {
-    "archive_id": "TPC-00033",
-    "public_date": "2021-08-31"
-  },
-  {
     "archive_id": "TPC-00034",
     "public_date": "2021-09-05"
-  },
-  {
-    "archive_id": "TPC-00035",
-    "public_date": "2021-09-08"
-  },
-  {
-    "archive_id": "TPC-00037",
-    "public_date": "2022-04-17"
-  },
-  {
-    "archive_id": "TPC-00038",
-    "public_date": "2022-04-17"
   },
   {
     "archive_id": "TPC-00039",
@@ -208,10 +156,6 @@
     "public_date": "2022-11-25"
   },
   {
-    "archive_id": "TPC-00238",
-    "public_date": "2022-12-11"
-  },
-  {
     "archive_id": "TPC-00055",
     "public_date": "2022-12-31"
   },
@@ -224,15 +168,7 @@
     "public_date": "2023-08-16"
   },
   {
-    "archive_id": "TPC-00057",
-    "public_date": "2023-10-28"
-  },
-  {
     "archive_id": "TPC-00240",
-    "public_date": "2023-10-29"
-  },
-  {
-    "archive_id": "TPC-00059",
     "public_date": "2023-10-29"
   },
   {
@@ -264,10 +200,6 @@
     "public_date": "2024-05-06"
   },
   {
-    "archive_id": "TPC-00243",
-    "public_date": "2024-05-06"
-  },
-  {
     "archive_id": "TPC-00244",
     "public_date": "2024-05-06"
   },
@@ -292,24 +224,8 @@
     "public_date": "2024-05-27"
   },
   {
-    "archive_id": "TPC-00069",
-    "public_date": "2024-05-27"
-  },
-  {
-    "archive_id": "TPC-00070",
-    "public_date": "2024-05-27"
-  },
-  {
     "archive_id": "TPC-00071",
     "public_date": "2024-06-05"
-  },
-  {
-    "archive_id": "TPC-00072",
-    "public_date": "2024-06-05"
-  },
-  {
-    "archive_id": "TPC-00073",
-    "public_date": "2024-06-16"
   },
   {
     "archive_id": "TPC-00246",
@@ -368,10 +284,6 @@
     "public_date": "2024-07-07"
   },
   {
-    "archive_id": "TPC-00087",
-    "public_date": "2024-07-11"
-  },
-  {
     "archive_id": "TPC-00088",
     "public_date": "2024-07-11"
   },
@@ -392,10 +304,6 @@
     "public_date": "2024-07-13"
   },
   {
-    "archive_id": "TPC-00091",
-    "public_date": "2024-07-14"
-  },
-  {
     "archive_id": "TPC-00249",
     "public_date": "2024-07-14"
   },
@@ -406,10 +314,6 @@
   {
     "archive_id": "TPC-00251",
     "public_date": "2024-07-14"
-  },
-  {
-    "archive_id": "TPC-00092",
-    "public_date": "2024-07-18"
   },
   {
     "archive_id": "TPC-00093",
@@ -440,15 +344,7 @@
     "public_date": "2024-07-30"
   },
   {
-    "archive_id": "TPC-00254",
-    "public_date": "2024-08-11"
-  },
-  {
     "archive_id": "TPC-00255",
-    "public_date": "2024-08-11"
-  },
-  {
-    "archive_id": "TPC-00256",
     "public_date": "2024-08-11"
   },
   {
@@ -457,22 +353,6 @@
   },
   {
     "archive_id": "TPC-00258",
-    "public_date": "2024-08-11"
-  },
-  {
-    "archive_id": "TPC-00098",
-    "public_date": "2024-08-11"
-  },
-  {
-    "archive_id": "TPC-00259",
-    "public_date": "2024-08-11"
-  },
-  {
-    "archive_id": "TPC-00260",
-    "public_date": "2024-08-11"
-  },
-  {
-    "archive_id": "TPC-00261",
     "public_date": "2024-08-11"
   },
   {
@@ -488,15 +368,7 @@
     "public_date": "2024-08-29"
   },
   {
-    "archive_id": "TPC-00100",
-    "public_date": "2024-08-29"
-  },
-  {
     "archive_id": "TPC-00101",
-    "public_date": "2024-08-29"
-  },
-  {
-    "archive_id": "TPC-00264",
     "public_date": "2024-08-29"
   },
   {
@@ -504,15 +376,7 @@
     "public_date": "2024-08-29"
   },
   {
-    "archive_id": "TPC-00265",
-    "public_date": "2024-09-04"
-  },
-  {
     "archive_id": "TPC-00103",
-    "public_date": "2024-09-04"
-  },
-  {
-    "archive_id": "TPC-00104",
     "public_date": "2024-09-04"
   },
   {
@@ -532,23 +396,11 @@
     "public_date": "2024-09-06"
   },
   {
-    "archive_id": "TPC-00107",
-    "public_date": "2024-09-06"
-  },
-  {
     "archive_id": "TPC-00268",
     "public_date": "2024-09-07"
   },
   {
-    "archive_id": "TPC-00269",
-    "public_date": "2024-09-07"
-  },
-  {
     "archive_id": "TPC-00270",
-    "public_date": "2024-09-07"
-  },
-  {
-    "archive_id": "TPC-00108",
     "public_date": "2024-09-07"
   },
   {
@@ -570,10 +422,6 @@
   {
     "archive_id": "TPC-00112",
     "public_date": "2024-09-22"
-  },
-  {
-    "archive_id": "TPC-00272",
-    "public_date": "2024-09-25"
   },
   {
     "archive_id": "TPC-00113",
@@ -656,10 +504,6 @@
     "public_date": "2025-04-12"
   },
   {
-    "archive_id": "TPC-00130",
-    "public_date": "2025-05-20"
-  },
-  {
     "archive_id": "TPC-00131",
     "public_date": "2025-05-20"
   },
@@ -682,10 +526,6 @@
   {
     "archive_id": "TPC-00136",
     "public_date": "2025-06-30"
-  },
-  {
-    "archive_id": "TPC-00137",
-    "public_date": "2025-07-02"
   },
   {
     "archive_id": "TPC-00138",
@@ -724,10 +564,6 @@
     "public_date": "2025-07-31"
   },
   {
-    "archive_id": "TPC-00147",
-    "public_date": "2025-08-02"
-  },
-  {
     "archive_id": "TPC-00148",
     "public_date": "2025-08-02"
   },
@@ -752,16 +588,8 @@
     "public_date": "2025-08-09"
   },
   {
-    "archive_id": "TPC-00153",
-    "public_date": "2025-08-09"
-  },
-  {
     "archive_id": "TPC-00154",
     "public_date": "2025-08-09"
-  },
-  {
-    "archive_id": "TPC-00155",
-    "public_date": "2025-08-10"
   },
   {
     "archive_id": "TPC-00156",
@@ -772,23 +600,7 @@
     "public_date": "2025-08-10"
   },
   {
-    "archive_id": "TPC-00158",
-    "public_date": "2025-08-10"
-  },
-  {
     "archive_id": "TPC-00159",
-    "public_date": "2025-08-10"
-  },
-  {
-    "archive_id": "TPC-00160",
-    "public_date": "2025-08-10"
-  },
-  {
-    "archive_id": "TPC-00161",
-    "public_date": "2025-08-10"
-  },
-  {
-    "archive_id": "TPC-00162",
     "public_date": "2025-08-10"
   },
   {
@@ -832,19 +644,11 @@
     "public_date": "2026-06-21"
   },
   {
-    "archive_id": "TPC-00177",
-    "public_date": "2026-06-21"
-  },
-  {
     "archive_id": "TPC-00178",
     "public_date": "2026-06-22"
   },
   {
     "archive_id": "TPC-00179",
-    "public_date": "2026-06-22"
-  },
-  {
-    "archive_id": "TPC-00180",
     "public_date": "2026-06-22"
   },
   {
@@ -865,10 +669,6 @@
   },
   {
     "archive_id": "TPC-00186",
-    "public_date": "2026-06-26"
-  },
-  {
-    "archive_id": "TPC-00187",
     "public_date": "2026-06-26"
   },
   {
@@ -904,10 +704,6 @@
     "public_date": "2026-07-28"
   },
   {
-    "archive_id": "TPC-00200",
-    "public_date": "2026-07-30"
-  },
-  {
     "archive_id": "TPC-00201",
     "public_date": "2026-08-01"
   },
@@ -920,19 +716,11 @@
     "public_date": "2026-08-03"
   },
   {
-    "archive_id": "TPC-00204",
-    "public_date": "2026-08-03"
-  },
-  {
     "archive_id": "TPC-00205",
     "public_date": "2026-08-03"
   },
   {
     "archive_id": "TPC-00206",
-    "public_date": "2026-08-05"
-  },
-  {
-    "archive_id": "TPC-00207",
     "public_date": "2026-08-05"
   },
   {
@@ -948,20 +736,12 @@
     "public_date": "2026-08-06"
   },
   {
-    "archive_id": "TPC-00211",
-    "public_date": "2026-08-06"
-  },
-  {
     "archive_id": "TPC-00212",
     "public_date": "2026-08-12"
   },
   {
     "archive_id": "TPC-00213",
     "public_date": "2026-08-12"
-  },
-  {
-    "archive_id": "TPC-00214",
-    "public_date": "2026-08-13"
   },
   {
     "archive_id": "TPC-00215",
@@ -988,31 +768,11 @@
     "public_date": "2026-08-18"
   },
   {
-    "archive_id": "TPC-00222",
-    "public_date": "2026-08-18"
-  },
-  {
     "archive_id": "TPC-00223",
     "public_date": "2026-08-18"
   },
   {
-    "archive_id": "TPC-00224",
-    "public_date": "2026-08-18"
-  },
-  {
-    "archive_id": "TPC-00225",
-    "public_date": "2026-08-18"
-  },
-  {
-    "archive_id": "TPC-00226",
-    "public_date": "2026-08-20"
-  },
-  {
     "archive_id": "TPC-00227",
-    "public_date": "2026-08-20"
-  },
-  {
-    "archive_id": "TPC-00228",
     "public_date": "2026-08-20"
   },
   {
