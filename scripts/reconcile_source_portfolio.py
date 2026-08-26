@@ -1,14 +1,16 @@
 from pathlib import Path
 import csv
 import json
+import os
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = Path(
+DEFAULT_SOURCE = Path(
     "/Users/daiana-melaniadobre/Library/Mobile Documents/com~apple~CloudDocs/"
     "001_Jimmy's business/System Feythic Live/01_ACTIVE/TPC-20260515-21/"
     "content/visual/photography-portfolio"
 )
+SOURCE = Path(os.environ.get("TPC_PHOTO_SOURCE", DEFAULT_SOURCE))
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".heic", ".heif", ".webp", ".tif", ".tiff"}
 
 
@@ -62,10 +64,15 @@ for archive_id in removed_ids:
     if derivative.exists():
         derivative.unlink()
 
+excluded_assets = sum(
+    1 for path in SOURCE.iterdir()
+    if path.is_file() and path.suffix.lower() in IMAGE_EXTENSIONS and path.name.upper().startswith("TPC_")
+)
+
 print(json.dumps({
     "source_photographs": len(source_names),
     "remaining_inventory": len(inventory),
     "removed_records": len(removed),
     "removed_ids": sorted(removed_ids),
-    "contact_sheets_excluded": 4,
+    "working_assets_excluded": excluded_assets,
 }, indent=2))

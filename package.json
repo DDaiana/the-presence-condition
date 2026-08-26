@@ -11,8 +11,12 @@
     "start": "vinext start",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "archive:scan": "node scripts/scan-photos.mjs",
+    "archive:reconcile": "python3 scripts/reconcile_source_portfolio.py",
+    "archive:register-new": "python3 scripts/register_new_photos.py",
     "archive:classify": "python3 scripts/reclassify_photos.py",
     "archive:build": "node scripts/build-derivatives.mjs",
+    "archive:gallery": "python3 scripts/build_gallery_data.py",
+    "archive:curate": "python3 scripts/build_curatorial_selection.py",
     "archive:validate": "node scripts/validate-archive.mjs",
     "test:curation": "python3 -m unittest discover -s tests -p 'test_*.py'"
   },

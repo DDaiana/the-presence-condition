@@ -16,6 +16,8 @@ pnpm build
 
 ## Archive ingestion
 
+The approved incremental process is documented in [docs/PHOTOGRAPH_PROCESSING_WORKFLOW.md](docs/PHOTOGRAPH_PROCESSING_WORKFLOW.md). Follow it for every future photo intake so the current Condition edit remains unchanged.
+
 Original photographs remain outside this repository. Point the scanner at the authoritative local directory, then build privacy-safe web derivatives:
 
 ```sh
